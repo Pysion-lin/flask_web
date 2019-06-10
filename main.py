@@ -10,3 +10,4 @@ end = time.time()
 
 print(end - start)
 
+print(num)
