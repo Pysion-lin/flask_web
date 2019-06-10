@@ -9,6 +9,5 @@ for i in range(100000000):
 end = time.time()
 
 print(end - start)
-
 print("验证是否代码冲突")
 
