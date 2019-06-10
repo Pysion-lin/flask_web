@@ -11,3 +11,5 @@ end = time.time()
 print(end - start)
 
 print(num)
+
+print("进行第二次验证")
