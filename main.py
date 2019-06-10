@@ -16,3 +16,5 @@ print(num)
 
 print("进行第二次验证")
 print("进行第三次验证")
+
+print("进行第四次验证")
